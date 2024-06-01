@@ -1,0 +1,51 @@
+*{
+padding: 00;
+    color: #00000c;
+    margin: 00;   
+    font-family: sans-serif;
+}
+
+#logo{
+    position: relative;
+    width: 93%;
+    height: 70px;
+    margin-left: 30px;
+    margin-top: 14px;
+    display: flex;
+    justify-content: space-between;
+   
+}
+.a{
+    margin-right: 5px;
+    margin-left: 0;
+}
+#head{
+    text-align: center;
+    display: flex;
+    color: black;
+   font-size: 14px;
+   font-family: sans-serif;
+   
+}
+a{
+    margin-right: 10px;
+    margin-left: 10px;
+    text-decoration: none;
+    margin-top: 10px;
+}
+#cod{
+    position: absolute;
+    top: 30px;
+}
+.nav
+{
+    position: relative;
+    width: 90%;
+    height: 40px;
+    display: flex;
+    border-style:ridge;
+    justify-content: space-between;
+    margin-left: 50px;
+}
+#ser{
+margin-top: 10px;}
