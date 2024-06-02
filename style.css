@@ -1,7 +1,7 @@
 *{
 padding: 00;
     color: #00000c;
-    margin: 00;   
+    margin-left: 00;   
     font-family: sans-serif;
 }
 
@@ -23,7 +23,7 @@ padding: 00;
     text-align: center;
     display: flex;
     color: black;
-   font-size: 14px;
+   font-size: 14px ;
    font-family: sans-serif;
    
 }
@@ -48,4 +48,21 @@ a{
     margin-left: 50px;
 }
 #ser{
-margin-top: 10px;}
+margin-top: 10px;
+}
+
+#secondhead{
+    height: 20px;
+    display: flex;
+    list-style: none;    
+    margin-top: 20px;
+    margin-left: 40px;
+    font-size: 12px;
+    font-style:;
+}
+#blog{
+    font-size: 10px;
+    margin-left: 45px;
+    margin-top: 0px;
+    font-family: Arial, verdana, sans-serif;
+}
